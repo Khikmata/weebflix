@@ -1,1 +1,1 @@
-Online anime cinema built using React, RTKQ, Express, MongoDB
+RUN: docker-compose up --build
